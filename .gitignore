@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+.pytest_cache/
+.coverage
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
